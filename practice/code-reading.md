@@ -16,6 +16,7 @@ Take a look at the following code:
 
 Explain why line 4 and line 6 output different numbers.
 
+
 ## Question 2
 
 Take a look at the following code:
@@ -34,6 +35,8 @@ console.log(y)
 ```
 
 What will be the output of this code. Explain your answer in 50 words or less.
+
+inside f1 function x's value is 10,and y is undefine 
 
 ## Question 3
 
@@ -62,3 +65,4 @@ console.log(y);
 ```
 
 What will be the output of this code. Explain your answer in 50 words or less.
+{x: 9} it is an object, hence it's changing original value.
